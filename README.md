@@ -4,6 +4,10 @@
 - 📫 How to reach me
   - X (twitter): https://x.com/MooThedevO
   - YouTube: https://www.youtube.com/@MooThedevO
+- Finished Projects
+    - SnakeSharp : A simple snake game in c#
+- Unfinished Projects
+    - MedNet : Medication Sharing App
 <!---
 MooThedevO/MooThedevO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
