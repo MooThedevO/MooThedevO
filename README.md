@@ -4,6 +4,8 @@
 - 📫 How to reach me
   - X (twitter): https://x.com/MooThedevO
   - YouTube: https://www.youtube.com/@MooThedevO
+- Advent of code
+    - 2024
 - Finished Projects
     - SnakeSharp : A simple snake game in c#
 - Unfinished Projects
