@@ -4,11 +4,14 @@
 - 📫 How to reach me
   - X (twitter): https://x.com/MooThedevO
   - YouTube: https://www.youtube.com/@MooThedevO
+    
 - Advent of code
     - 2024 : solving in python and C   https://github.com/MooThedevO/AdventOfCode/tree/main/2024
+      
 - Finished Projects
     - SnakeSharp : A simple snake game in c# https://github.com/MooThedevO/SnakeSharp
     - blBoard : A primitive black board to draw rectangles, circles, and add some text https://github.com/MooThedevO/blBoard
+      
 - Unfinished Projects
     - MedNet : Medication Sharing App https://github.com/MooThedevO/mednet-app
 <!---
